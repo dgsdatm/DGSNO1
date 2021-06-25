@@ -1,2 +1,2 @@
 # DGSNO1
-First blood
+Welcome to DSG home!
